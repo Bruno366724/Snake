@@ -1,0 +1,14 @@
+C:\Users\lad\Desktop\snake\Serpiente\bin\Debug\net10.0\Serpiente.exe
+C:\Users\lad\Desktop\snake\Serpiente\bin\Debug\net10.0\Serpiente.deps.json
+C:\Users\lad\Desktop\snake\Serpiente\bin\Debug\net10.0\Serpiente.runtimeconfig.json
+C:\Users\lad\Desktop\snake\Serpiente\bin\Debug\net10.0\Serpiente.dll
+C:\Users\lad\Desktop\snake\Serpiente\bin\Debug\net10.0\Serpiente.pdb
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\Serpiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\Serpiente.AssemblyInfoInputs.cache
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\Serpiente.AssemblyInfo.cs
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\Serpiente.csproj.CoreCompileInputs.cache
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\Serpiente.dll
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\refint\Serpiente.dll
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\Serpiente.pdb
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\Serpiente.genruntimeconfig.cache
+C:\Users\lad\Desktop\snake\Serpiente\obj\Debug\net10.0\ref\Serpiente.dll
