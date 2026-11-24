@@ -1,0 +1,14 @@
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\Serpiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\Serpiente.AssemblyInfoInputs.cache
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\Serpiente.AssemblyInfo.cs
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\Serpiente.csproj.CoreCompileInputs.cache
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\bin\Debug\net8.0-windows\Serpiente.exe
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\bin\Debug\net8.0-windows\Serpiente.deps.json
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\bin\Debug\net8.0-windows\Serpiente.runtimeconfig.json
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\bin\Debug\net8.0-windows\Serpiente.dll
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\bin\Debug\net8.0-windows\Serpiente.pdb
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\Serpiente.dll
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\refint\Serpiente.dll
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\Serpiente.pdb
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\Serpiente.genruntimeconfig.cache
+C:\Users\lad\Desktop\snake\Snake-Interfaz-grafica\Snake-Interfaz-grafica\obj\Debug\net8.0-windows\ref\Serpiente.dll
